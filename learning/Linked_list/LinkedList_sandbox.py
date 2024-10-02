@@ -1,0 +1,1 @@
+# Escribe debajo el codigo de la clase LinkedList y sus respectivos metodos        
