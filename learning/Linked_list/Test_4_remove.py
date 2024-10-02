@@ -11,11 +11,11 @@ class TestLinkedListRemove(unittest.TestCase):
 
         # Eliminar nodo de enmedio
         linked_list.remove_node(20)
-        self.assertNotIn(20, linked_list.stringify_list(), "El nodo no fue eliminado correctamente.")
+        self.assertNotIn(str(20), linked_list.stringify_list(), "El nodo no fue eliminado correctamente.")
         
         # Eliminar nodo cabeza
         linked_list.remove_node(30)
-        self.assertNotIn(30, linked_list.stringify_list(), "El nodo cabeza no fue eliminado correctamente.")
+        self.assertNotIn(str(30), linked_list.stringify_list(), "El nodo cabeza no fue eliminado correctamente.")
     
 if __name__ == '__main__':
     unittest.main()
