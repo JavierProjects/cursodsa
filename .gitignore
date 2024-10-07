@@ -1,4 +1,5 @@
 __pycache__
+.DS_Store
 .ipynb_checkpoints
 images_parte01
 images_parte03
@@ -15,3 +16,4 @@ DSA_Parte04.ipynb
 gato_game.ipynb
 Juego_plantas.ipynb
 test.txt
+Keynote
