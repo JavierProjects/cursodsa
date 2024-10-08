@@ -5,6 +5,8 @@ images_parte01
 images_parte03
 images_parte04
 Node
+learning/DoublyLinkedList/Node.py
+learning/DoublyLinkedList/DoublyLinkedList.py
 !/learning/Node
 OOP
 tic_tac_toe
