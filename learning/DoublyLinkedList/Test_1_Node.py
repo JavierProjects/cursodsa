@@ -1,5 +1,5 @@
 import unittest
-from Node import Node
+from Node_sandbox import Node
 
 class TestNode(unittest.TestCase):
 
