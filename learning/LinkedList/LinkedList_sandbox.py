@@ -1,2 +1,7 @@
+# Se importa la clase Node 
+from Node_sandbox import Node
+
 # Escribe debajo el codigo de la clase LinkedList y sus respectivos metodos     
-# Recuerda importar la clase Node en este script
+
+class LinkedList:
+    pass

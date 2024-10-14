@@ -1,6 +1,13 @@
 import unittest
-from Node import Node
-from LinkedList_sandbox import LinkedList
+import start
+if start.from_test():
+    print("Running from Dr Javier's code")
+    from Node import Node
+    from LinkedList import LinkedList
+else:
+    print("Running from students' code")
+    from Node_sandbox import Node
+    from LinkedList_sandbox import LinkedList
 
 class TestLinkedListStringify(unittest.TestCase):
     

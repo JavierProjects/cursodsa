@@ -1,5 +1,12 @@
 import unittest
-from Node_sandbox import Node
+import start
+if start.from_test():
+    print("Running from Dr Javier's code")
+    from Node import Node    
+else:
+    print("Running from students' code")
+    from Node_sandbox import Node
+    
 
 class TestNodeInit(unittest.TestCase):
     def test_class_exists(self):
