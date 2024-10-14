@@ -9,8 +9,6 @@ else:
     from Node_sandbox import Node
     from LinkedList_sandbox import LinkedList
     
-    
-import unittest
 
 class TestLinkedList(unittest.TestCase):
 
