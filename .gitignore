@@ -4,10 +4,15 @@ __pycache__
 images_parte01
 images_parte03
 images_parte04
+q2.png
+q3.png
+q3a.png
+q4.png
 Node
 learning/DoublyLinkedList/Node.py
 learning/DoublyLinkedList/DoublyLinkedList.py
 !/learning/Node
+/learning/LinealBinarySearch/binary_search.py
 questions
 4_Ejercicios.ipynb
 LinkedList.py
