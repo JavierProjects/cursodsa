@@ -8,11 +8,14 @@ q2.png
 q3.png
 q3a.png
 q4.png
+q5.png
+q6.png
 Node
 learning/DoublyLinkedList/Node.py
 learning/DoublyLinkedList/DoublyLinkedList.py
 !/learning/Node
 /learning/LinealBinarySearch/binary_search.py
+learning/LinealBinarySearch/buscando_ando.py
 questions
 4_Ejercicios.ipynb
 LinkedList.py
