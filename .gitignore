@@ -1,3 +1,4 @@
+
 __pycache__
 .DS_Store
 .ipynb_checkpoints
@@ -31,16 +32,14 @@ q8_1.png
 q9_1.png
 Hanoi.py
 Queue.py
-learning/Stacks/stack_init.py
-learning/Stacks/stack_push_pop.py
-learning/Stacks/stack.py
-learning/Queues/q1.png
 Node
-learning/DoublyLinkedList/Node.py
-learning/DoublyLinkedList/DoublyLinkedList.py
+learning/DoublyLinkedList
+learning/HashMaps
+learning/LinealBinarySearch
+learning/LinkedList
+learning/Queues
+learning/Stacks
 !/learning/Node
-/learning/LinealBinarySearch/binary_search.py
-learning/LinealBinarySearch/buscando_ando.py
 questions
 4_Ejercicios.ipynb
 LinkedList.py

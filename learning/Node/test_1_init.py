@@ -14,7 +14,7 @@ class TestNodeInit(unittest.TestCase):
         try:
             self.assertTrue(issubclass(Node, object))
         except NameError:
-            self.fail("Did you define a class called `Node`?")
+            self.fail("¿Definiste una clase llamada `Node`?")
     
     def test_node_initialization(self):
         # Test if Node initializes with a value and next_node
