@@ -33,12 +33,13 @@ q9_1.png
 Hanoi.py
 Queue.py
 Node
-learning/DoublyLinkedList
+#learning/DoublyLinkedList
 learning/HashMaps
 learning/LinealBinarySearch
 learning/Queues
 learning/Stacks
 !/learning/Node
+/learning/DoublyLinkedList/DoublyLinkedList.py
 questions
 4_Ejercicios.ipynb
 LinkedList.py
